@@ -1,0 +1,6 @@
+<resources>
+    <string name="temperature">Temperature: %.0f°C</string>
+    <string name="wind_speed">Wind Speed: %.2f m/s</string>
+    <string name="rain_probability">Rain Probability: %d%%</string>
+    <string name="humidity">Humidity: %d%%</string>
+</resources>

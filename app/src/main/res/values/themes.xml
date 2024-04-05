@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- res/values/styles.xml -->
+    <style name="Base.Theme.Weather_Denis" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColor">@color/brown</item>
+
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="Theme.Weather_Denis" parent="Base.Theme.Weather_Denis" />
+
+</resources>
